@@ -1,8 +1,6 @@
-"# vanillaWebPackDevServerSass" 
+Example for simple Ajax call using redux & react
 
 # README #
-
-( example from - https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
 
 
 1) after downloading this file
@@ -16,5 +14,5 @@
 5) visit this url inside a browser: 
 http://localhost:3000/default.
 
-6) Try re-saving one of the scss files and watch the page update, without refreshing.
+6) Enter some ip address and press enter to fire an ajax call and get the ip info.
 
