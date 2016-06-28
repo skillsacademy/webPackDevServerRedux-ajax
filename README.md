@@ -12,7 +12,7 @@ Example for simple Ajax call using redux & react
 4) type: npm run dev
 
 5) visit this url inside a browser: 
-http://localhost:3000/default.
+http://localhost:3000/default.htm
 
 6) Enter some ip address and press enter to fire an ajax call and get the ip info.
 
